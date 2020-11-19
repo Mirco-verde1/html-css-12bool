@@ -1,0 +1,24 @@
+[class*="col-"] {
+	height: 80px;
+
+}
+
+.black{
+	background: black;
+}
+
+.green{
+	background: green;
+}
+
+.grey{
+	background: #ccc;
+}
+
+.container{
+	height: 80px;
+}
+
+.red{
+	background: red;
+}
