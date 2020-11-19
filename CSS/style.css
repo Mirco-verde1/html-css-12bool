@@ -1,0 +1,10 @@
+[class*="col-"] {
+	background: pink;
+	border: 1px solid black;
+	height: 300px;
+}
+
+.container{
+	text-align: center;
+	line-height: 300px;
+}
