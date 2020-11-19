@@ -7,6 +7,7 @@
 .container{
 	text-align: center;
 	line-height: 300px;
+	position: relative;
 }
 
 .pad10{
@@ -17,4 +18,11 @@
 	height: 280px;
 	background: #ff4d94;
 	border: 1px solid #fff;
+}
+
+.nest-text{
+	transform: translate(-50% , -50%);
+	top: 50%;
+	left: 50%;
+	position: relative;
 }
